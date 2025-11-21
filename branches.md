@@ -1,4 +1,4 @@
-la branches main branche de base
-la dev et intégration
-la feature parmettre à nouvelles fonctionnalités
-la commande hotfix corrections
+la branche main = (branche de base)
+la commande dev = (intégration)
+la featureparrametre à = (nouvelles fonctionnalités)
+la commande hotfix = (corrections)
